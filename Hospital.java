@@ -1,5 +1,6 @@
 public class Hospital{
     String name;
+    double num;
 
     public Hospital(){
     }
